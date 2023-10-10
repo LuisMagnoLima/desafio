@@ -1,0 +1,31 @@
+
+body{
+    border-style: solid; border-width: 5px; margin: 0px 450px;
+
+}
+
+.a{
+    text-align: end;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+   
+}
+.b{
+    text-align: end;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+.c{
+text-align: center;
+flex-direction: row;
+
+}
+.d{
+    text-align: center;
+    flex-direction: row;
+    align-items: center;
+
+
+}
